@@ -116,6 +116,16 @@ header nav ul li.btn a:hover {
     
 }
 
+.nav-ul li a svg{
+    position: relative;
+    top: 0.25rem;
+}
+
+.nav-ul-menu li a svg{
+    position: relative;
+    top: 0.25rem;
+}
+
 .nav-ul-menu.active {
     display: flex;
 }
